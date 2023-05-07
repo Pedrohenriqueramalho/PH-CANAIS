@@ -1,0 +1,1539 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Belo Horizonte/MG  Playboy TV ">
+    <display-name lang="pt">Belo Horizonte/MG  Playboy TV </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Sextreme">
+    <display-name lang="pt">Belo Horizonte/MG  Sextreme</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Venus">
+    <display-name lang="pt">Belo Horizonte/MG  Venus</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Sexy Hot">
+    <display-name lang="pt">Belo Horizonte/MG  Sexy Hot</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Playboy HD">
+    <display-name lang="pt">Belo Horizonte/MG  Playboy HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Futura">
+    <display-name lang="pt">Belo Horizonte/MG  Futura</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  National Geographic">
+    <display-name lang="pt">Belo Horizonte/MG  National Geographic</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Discovery Channel">
+    <display-name lang="pt">Belo Horizonte/MG  Discovery Channel</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Animal Planet">
+    <display-name lang="pt">Belo Horizonte/MG  Animal Planet</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  The History Channel">
+    <display-name lang="pt">Belo Horizonte/MG  The History Channel</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Discovery Turbo">
+    <display-name lang="pt">Belo Horizonte/MG  Discovery Turbo</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Discovery Science">
+    <display-name lang="pt">Belo Horizonte/MG  Discovery Science</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Discovery HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Discovery HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Discovery Theater HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Discovery Theater HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Multishow">
+    <display-name lang="pt">Belo Horizonte/MG  Multishow</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  BIS">
+    <display-name lang="pt">Belo Horizonte/MG  BIS</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  MTV">
+    <display-name lang="pt">Belo Horizonte/MG  MTV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV WA">
+    <display-name lang="pt">Belo Horizonte/MG  TV WA</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Music Box Brazil">
+    <display-name lang="pt">Belo Horizonte/MG  Music Box Brazil</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  SporTV 3 ">
+    <display-name lang="pt">Belo Horizonte/MG  SporTV 3 </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  SporTV 2">
+    <display-name lang="pt">Belo Horizonte/MG  SporTV 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  SporTV">
+    <display-name lang="pt">Belo Horizonte/MG  SporTV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  ESPN">
+    <display-name lang="pt">Belo Horizonte/MG  ESPN</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  ESPN 2">
+    <display-name lang="pt">Belo Horizonte/MG  ESPN 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Espn 4">
+    <display-name lang="pt">Belo Horizonte/MG  Espn 4</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Band Sports">
+    <display-name lang="pt">Belo Horizonte/MG  Band Sports</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  AMC">
+    <display-name lang="pt">Belo Horizonte/MG  AMC</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Canal Brasil">
+    <display-name lang="pt">Belo Horizonte/MG  Canal Brasil</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TNT">
+    <display-name lang="pt">Belo Horizonte/MG  TNT</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Megapix">
+    <display-name lang="pt">Belo Horizonte/MG  Megapix</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Space">
+    <display-name lang="pt">Belo Horizonte/MG  Space</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Cinemax">
+    <display-name lang="pt">Belo Horizonte/MG  Cinemax</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Prime Box Brazil">
+    <display-name lang="pt">Belo Horizonte/MG  Prime Box Brazil</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Studio Universal">
+    <display-name lang="pt">Belo Horizonte/MG  Studio Universal</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Paramount Network">
+    <display-name lang="pt">Belo Horizonte/MG  Paramount Network</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TCM">
+    <display-name lang="pt">Belo Horizonte/MG  TCM</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO">
+    <display-name lang="pt">Belo Horizonte/MG  HBO</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO 2">
+    <display-name lang="pt">Belo Horizonte/MG  HBO 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO +">
+    <display-name lang="pt">Belo Horizonte/MG  HBO +</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO Family">
+    <display-name lang="pt">Belo Horizonte/MG  HBO Family</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO Signature">
+    <display-name lang="pt">Belo Horizonte/MG  HBO Signature</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Hbo Pop">
+    <display-name lang="pt">Belo Horizonte/MG  Hbo Pop</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Hbo Mundi">
+    <display-name lang="pt">Belo Horizonte/MG  Hbo Mundi</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  hBO Xtreme">
+    <display-name lang="pt">Belo Horizonte/MG  hBO Xtreme</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  HBO HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO HD 2 ³">
+    <display-name lang="pt">Belo Horizonte/MG  HBO HD 2 ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Futura HD">
+    <display-name lang="pt">Belo Horizonte/MG  Futura HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  SporTV 3 HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  SporTV 3 HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  SporTV 2 HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  SporTV 2 HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  SporTV HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  SporTV HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Multishow HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Multishow HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  ESPN HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  ESPN HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  ESPN 2 HD ">
+    <display-name lang="pt">Belo Horizonte/MG  ESPN 2 HD </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  ESPN 3 HD">
+    <display-name lang="pt">Belo Horizonte/MG  ESPN 3 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  ESPN 4 HD">
+    <display-name lang="pt">Belo Horizonte/MG  ESPN 4 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Band Sports HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Band Sports HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  National Geographic HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  National Geographic HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Animal Planet HD">
+    <display-name lang="pt">Belo Horizonte/MG  Animal Planet HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  History Hd">
+    <display-name lang="pt">Belo Horizonte/MG  History Hd</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Discovery Turbo HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Discovery Turbo HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Discovery Science HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Discovery Science HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Smithsonian HD">
+    <display-name lang="pt">Belo Horizonte/MG  Smithsonian HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Discovery world HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Discovery world HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  History 2 HD">
+    <display-name lang="pt">Belo Horizonte/MG  History 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  BIS HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  BIS HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  MTV HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  MTV HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Music Box Brazil HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Music Box Brazil HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  MTV Live HD">
+    <display-name lang="pt">Belo Horizonte/MG  MTV Live HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  AMC HD">
+    <display-name lang="pt">Belo Horizonte/MG  AMC HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Canal Brasil HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Canal Brasil HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TNT HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  TNT HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Megapix HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Megapix HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Space HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Space HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Cinemax HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Cinemax HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Prime Box Brazil HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Prime Box Brazil HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Studio Universal HD">
+    <display-name lang="pt">Belo Horizonte/MG  Studio Universal HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Paramount Network HD ">
+    <display-name lang="pt">Belo Horizonte/MG  Paramount Network HD </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO + HD">
+    <display-name lang="pt">Belo Horizonte/MG  HBO + HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO Family HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  HBO Family HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO Signature HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  HBO Signature HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO POP HD">
+    <display-name lang="pt">Belo Horizonte/MG  HBO POP HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO MUNDI HD">
+    <display-name lang="pt">Belo Horizonte/MG  HBO MUNDI HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HBO Xtreme HD">
+    <display-name lang="pt">Belo Horizonte/MG  HBO Xtreme HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Gloobinho">
+    <display-name lang="pt">Belo Horizonte/MG  Gloobinho</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Discovery Kids">
+    <display-name lang="pt">Belo Horizonte/MG  Discovery Kids</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Gloob">
+    <display-name lang="pt">Belo Horizonte/MG  Gloob</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Disney Channel">
+    <display-name lang="pt">Belo Horizonte/MG  Disney Channel</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Nickelodeon">
+    <display-name lang="pt">Belo Horizonte/MG  Nickelodeon</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Cartoon Network">
+    <display-name lang="pt">Belo Horizonte/MG  Cartoon Network</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Nick Jr.">
+    <display-name lang="pt">Belo Horizonte/MG  Nick Jr.</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  cartoonito">
+    <display-name lang="pt">Belo Horizonte/MG  cartoonito</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Rá Tim Bum">
+    <display-name lang="pt">Belo Horizonte/MG  TV Rá Tim Bum</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Tooncast">
+    <display-name lang="pt">Belo Horizonte/MG  Tooncast</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Baby Tv">
+    <display-name lang="pt">Belo Horizonte/MG  Baby Tv</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  ZooMoo">
+    <display-name lang="pt">Belo Horizonte/MG  ZooMoo</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Gloobinho HD">
+    <display-name lang="pt">Belo Horizonte/MG  Gloobinho HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Discovery Kids HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Discovery Kids HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Gloob HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Gloob HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Disney Channel HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Disney Channel HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Nickelodeon HD">
+    <display-name lang="pt">Belo Horizonte/MG  Nickelodeon HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Cartoon Network HD">
+    <display-name lang="pt">Belo Horizonte/MG  Cartoon Network HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Nick Jr HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Nick Jr HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Cartoonito HD">
+    <display-name lang="pt">Belo Horizonte/MG  Cartoonito HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Rá Tim Bum HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  TV Rá Tim Bum HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  ZooMoo HD">
+    <display-name lang="pt">Belo Horizonte/MG  ZooMoo HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Portal do Futebol">
+    <display-name lang="pt">Belo Horizonte/MG  Portal do Futebol</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Canal de Vendas NET">
+    <display-name lang="pt">Belo Horizonte/MG  Canal de Vendas NET</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Climatempo">
+    <display-name lang="pt">Belo Horizonte/MG  TV Climatempo</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Jogos Interativos Cartoon">
+    <display-name lang="pt">Belo Horizonte/MG  Jogos Interativos Cartoon</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  CNN International">
+    <display-name lang="pt">Belo Horizonte/MG  CNN International</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Bloomberg TV">
+    <display-name lang="pt">Belo Horizonte/MG  Bloomberg TV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  BBC World News">
+    <display-name lang="pt">Belo Horizonte/MG  BBC World News</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  RAI International">
+    <display-name lang="pt">Belo Horizonte/MG  RAI International</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV5 Monde">
+    <display-name lang="pt">Belo Horizonte/MG  TV5 Monde</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TVE International">
+    <display-name lang="pt">Belo Horizonte/MG  TVE International</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  DW-TV">
+    <display-name lang="pt">Belo Horizonte/MG  DW-TV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  NHK World Premium">
+    <display-name lang="pt">Belo Horizonte/MG  NHK World Premium</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  SIC International">
+    <display-name lang="pt">Belo Horizonte/MG  SIC International</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Música">
+    <display-name lang="pt">Belo Horizonte/MG  Música</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Canal do cliente">
+    <display-name lang="pt">Belo Horizonte/MG  Canal do cliente</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  CANAL DO CLIENTE HD">
+    <display-name lang="pt">Belo Horizonte/MG  CANAL DO CLIENTE HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  GloboNews">
+    <display-name lang="pt">Belo Horizonte/MG  GloboNews</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  CNN Brasil">
+    <display-name lang="pt">Belo Horizonte/MG  CNN Brasil</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Band News">
+    <display-name lang="pt">Belo Horizonte/MG  Band News</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Agro Mais">
+    <display-name lang="pt">Belo Horizonte/MG  Agro Mais</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  France 24">
+    <display-name lang="pt">Belo Horizonte/MG  France 24</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  GloboNews HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  GloboNews HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  CNN Brasil HD">
+    <display-name lang="pt">Belo Horizonte/MG  CNN Brasil HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Band News HD">
+    <display-name lang="pt">Belo Horizonte/MG  Band News HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Agro Mais HD ">
+    <display-name lang="pt">Belo Horizonte/MG  Agro Mais HD </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  France 24 HD">
+    <display-name lang="pt">Belo Horizonte/MG  France 24 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Premiere Clubes">
+    <display-name lang="pt">Belo Horizonte/MG  Premiere Clubes</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Premiere 2">
+    <display-name lang="pt">Belo Horizonte/MG  Premiere 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Premiere 3">
+    <display-name lang="pt">Belo Horizonte/MG  Premiere 3</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Premiere 4">
+    <display-name lang="pt">Belo Horizonte/MG  Premiere 4</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Premiere 5">
+    <display-name lang="pt">Belo Horizonte/MG  Premiere 5</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Premiere 6">
+    <display-name lang="pt">Belo Horizonte/MG  Premiere 6</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Premiere 7">
+    <display-name lang="pt">Belo Horizonte/MG  Premiere 7</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Mosaico Multijogos">
+    <display-name lang="pt">Belo Horizonte/MG  Mosaico Multijogos</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Combate">
+    <display-name lang="pt">Belo Horizonte/MG  Combate</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Premiere Clubes HD">
+    <display-name lang="pt">Belo Horizonte/MG  Premiere Clubes HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Premiere HD 2">
+    <display-name lang="pt">Belo Horizonte/MG  Premiere HD 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  PREMIERE HD 3 ³">
+    <display-name lang="pt">Belo Horizonte/MG  PREMIERE HD 3 ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  PREMIERE HD 4 ³">
+    <display-name lang="pt">Belo Horizonte/MG  PREMIERE HD 4 ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  PREMIERE HD 5 ³">
+    <display-name lang="pt">Belo Horizonte/MG  PREMIERE HD 5 ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Premiere HD 6">
+    <display-name lang="pt">Belo Horizonte/MG  Premiere HD 6</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Premiere HD 7">
+    <display-name lang="pt">Belo Horizonte/MG  Premiere HD 7</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Combate HD">
+    <display-name lang="pt">Belo Horizonte/MG  Combate HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Universal TV">
+    <display-name lang="pt">Belo Horizonte/MG  Universal TV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Star Channel">
+    <display-name lang="pt">Belo Horizonte/MG  Star Channel</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Warner Channel">
+    <display-name lang="pt">Belo Horizonte/MG  Warner Channel</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Sony">
+    <display-name lang="pt">Belo Horizonte/MG  Sony</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  FX">
+    <display-name lang="pt">Belo Horizonte/MG  FX</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  AXN">
+    <display-name lang="pt">Belo Horizonte/MG  AXN</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TBS">
+    <display-name lang="pt">Belo Horizonte/MG  TBS</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Comedy Central">
+    <display-name lang="pt">Belo Horizonte/MG  Comedy Central</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  A&amp;E">
+    <display-name lang="pt">Belo Horizonte/MG  A&amp;E</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  ID">
+    <display-name lang="pt">Belo Horizonte/MG  ID</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Syfy">
+    <display-name lang="pt">Belo Horizonte/MG  Syfy</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Lifetime">
+    <display-name lang="pt">Belo Horizonte/MG  Lifetime</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG   Universal TV HD">
+    <display-name lang="pt">Belo Horizonte/MG   Universal TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  STAR CHANNEL HD">
+    <display-name lang="pt">Belo Horizonte/MG  STAR CHANNEL HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Warner Channel HD">
+    <display-name lang="pt">Belo Horizonte/MG  Warner Channel HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Sony HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Sony HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  FX HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  FX HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  AXN HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  AXN HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TBS HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  TBS HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Comedy Central HD">
+    <display-name lang="pt">Belo Horizonte/MG  Comedy Central HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  A&amp;E HD">
+    <display-name lang="pt">Belo Horizonte/MG  A&amp;E HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  ID HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  ID HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Syfy HD">
+    <display-name lang="pt">Belo Horizonte/MG  Syfy HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Lifetime HD">
+    <display-name lang="pt">Belo Horizonte/MG  Lifetime HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TNT SÉRIES HD">
+    <display-name lang="pt">Belo Horizonte/MG  TNT SÉRIES HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Telecine Premium">
+    <display-name lang="pt">Belo Horizonte/MG  Telecine Premium</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Telecine Action">
+    <display-name lang="pt">Belo Horizonte/MG  Telecine Action</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Telecine Touch">
+    <display-name lang="pt">Belo Horizonte/MG  Telecine Touch</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Telecine Fun">
+    <display-name lang="pt">Belo Horizonte/MG  Telecine Fun</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Telecine Pipoca">
+    <display-name lang="pt">Belo Horizonte/MG  Telecine Pipoca</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Telecine Cult">
+    <display-name lang="pt">Belo Horizonte/MG  Telecine Cult</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Telecine Premium HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Telecine Premium HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Telecine Action HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Telecine Action HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Telecine Touch HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Telecine Touch HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Telecine Fun HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Telecine Fun HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Telecine Pipoca HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Telecine Pipoca HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Telecine Cult HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Telecine Cult HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Off">
+    <display-name lang="pt">Belo Horizonte/MG  Off</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  GNT">
+    <display-name lang="pt">Belo Horizonte/MG  GNT</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Viva">
+    <display-name lang="pt">Belo Horizonte/MG  Viva</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Modo viagem">
+    <display-name lang="pt">Belo Horizonte/MG  Modo viagem</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  E! ">
+    <display-name lang="pt">Belo Horizonte/MG  E! </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TLC">
+    <display-name lang="pt">Belo Horizonte/MG  TLC</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Arte 1">
+    <display-name lang="pt">Belo Horizonte/MG  Arte 1</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Food Network">
+    <display-name lang="pt">Belo Horizonte/MG  Food Network</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Discovery Home &amp; Health">
+    <display-name lang="pt">Belo Horizonte/MG  Discovery Home &amp; Health</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Curta!">
+    <display-name lang="pt">Belo Horizonte/MG  Curta!</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  FISH TV">
+    <display-name lang="pt">Belo Horizonte/MG  FISH TV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HGTV">
+    <display-name lang="pt">Belo Horizonte/MG  HGTV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Woohoo">
+    <display-name lang="pt">Belo Horizonte/MG  Woohoo</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Cinecanal">
+    <display-name lang="pt">Belo Horizonte/MG  Cinecanal</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Film&amp;Arts">
+    <display-name lang="pt">Belo Horizonte/MG  Film&amp;Arts</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  LIKE HD">
+    <display-name lang="pt">Belo Horizonte/MG  LIKE HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Off HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Off HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  GNT HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  GNT HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Viva HD">
+    <display-name lang="pt">Belo Horizonte/MG  Viva HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Modo viagem HD">
+    <display-name lang="pt">Belo Horizonte/MG  Modo viagem HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  E! HD">
+    <display-name lang="pt">Belo Horizonte/MG  E! HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TLC HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  TLC HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Arte 1 HD">
+    <display-name lang="pt">Belo Horizonte/MG  Arte 1 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  FOOD NETWORK HD">
+    <display-name lang="pt">Belo Horizonte/MG  FOOD NETWORK HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Discovery Home &amp; Health HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  Discovery Home &amp; Health HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Curta! HD">
+    <display-name lang="pt">Belo Horizonte/MG  Curta! HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  DogTV HD">
+    <display-name lang="pt">Belo Horizonte/MG  DogTV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  HGTV HD">
+    <display-name lang="pt">Belo Horizonte/MG  HGTV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Sabor &amp; Arte HD">
+    <display-name lang="pt">Belo Horizonte/MG  Sabor &amp; Arte HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Woohoo HD">
+    <display-name lang="pt">Belo Horizonte/MG  Woohoo HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Cinecanal HD">
+    <display-name lang="pt">Belo Horizonte/MG  Cinecanal HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Film&amp;Arts HD">
+    <display-name lang="pt">Belo Horizonte/MG  Film&amp;Arts HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  BH News">
+    <display-name lang="pt">Belo Horizonte/MG  BH News</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  RIT TV">
+    <display-name lang="pt">Belo Horizonte/MG  RIT TV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Band">
+    <display-name lang="pt">Belo Horizonte/MG  Band</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV do Carro">
+    <display-name lang="pt">Belo Horizonte/MG  TV do Carro</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Rede Super">
+    <display-name lang="pt">Belo Horizonte/MG  Rede Super</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Balcão">
+    <display-name lang="pt">Belo Horizonte/MG  TV Balcão</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Polishop">
+    <display-name lang="pt">Belo Horizonte/MG  Polishop</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Shoptime">
+    <display-name lang="pt">Belo Horizonte/MG  Shoptime</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Terra Viva">
+    <display-name lang="pt">Belo Horizonte/MG  Terra Viva</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Canal Rural">
+    <display-name lang="pt">Belo Horizonte/MG  Canal Rural</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Canal do Boi">
+    <display-name lang="pt">Belo Horizonte/MG  Canal do Boi</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Pai Eterno">
+    <display-name lang="pt">Belo Horizonte/MG  TV Pai Eterno</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Rede Vida">
+    <display-name lang="pt">Belo Horizonte/MG  Rede Vida</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Tv Aparecida">
+    <display-name lang="pt">Belo Horizonte/MG  Tv Aparecida</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Boa Vontade TV">
+    <display-name lang="pt">Belo Horizonte/MG  Boa Vontade TV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  CGTN">
+    <display-name lang="pt">Belo Horizonte/MG  CGTN</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Polishop TV">
+    <display-name lang="pt">Belo Horizonte/MG  Polishop TV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Shoptime TV">
+    <display-name lang="pt">Belo Horizonte/MG  Shoptime TV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Fashion TV HD">
+    <display-name lang="pt">Belo Horizonte/MG  Fashion TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Travel Box Brasil HD ">
+    <display-name lang="pt">Belo Horizonte/MG  Travel Box Brasil HD </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  FISH TV HD">
+    <display-name lang="pt">Belo Horizonte/MG  FISH TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  ESPN Extra HD">
+    <display-name lang="pt">Belo Horizonte/MG  ESPN Extra HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  JP News HD">
+    <display-name lang="pt">Belo Horizonte/MG  JP News HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Trace Brazuca HD">
+    <display-name lang="pt">Belo Horizonte/MG  Trace Brazuca HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Eurochannel HD">
+    <display-name lang="pt">Belo Horizonte/MG  Eurochannel HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Rede Mundial (Espelho)">
+    <display-name lang="pt">Belo Horizonte/MG  Rede Mundial (Espelho)</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Canal do Boi HD">
+    <display-name lang="pt">Belo Horizonte/MG  Canal do Boi HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG   TV Pai Eterno HD">
+    <display-name lang="pt">Belo Horizonte/MG   TV Pai Eterno HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Rede Vida HD">
+    <display-name lang="pt">Belo Horizonte/MG  Rede Vida HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG   TV Aparecida (espelho)">
+    <display-name lang="pt">Belo Horizonte/MG   TV Aparecida (espelho)</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  CONMEBOL TV 4 HD">
+    <display-name lang="pt">Belo Horizonte/MG  CONMEBOL TV 4 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Brasil 2">
+    <display-name lang="pt">Belo Horizonte/MG  TV Brasil 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Brasil">
+    <display-name lang="pt">Belo Horizonte/MG  TV Brasil</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Senado">
+    <display-name lang="pt">Belo Horizonte/MG  TV Senado</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Câmara">
+    <display-name lang="pt">Belo Horizonte/MG  TV Câmara</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Canal Comunitário">
+    <display-name lang="pt">Belo Horizonte/MG  Canal Comunitário</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Justiça">
+    <display-name lang="pt">Belo Horizonte/MG  TV Justiça</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Canal Legislativo">
+    <display-name lang="pt">Belo Horizonte/MG  Canal Legislativo</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Canal Universitário">
+    <display-name lang="pt">Belo Horizonte/MG  Canal Universitário</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Record">
+    <display-name lang="pt">Belo Horizonte/MG  Record</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Rede TV">
+    <display-name lang="pt">Belo Horizonte/MG  Rede TV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  SBT (TV Alterosa)">
+    <display-name lang="pt">Belo Horizonte/MG  SBT (TV Alterosa)</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Minas">
+    <display-name lang="pt">Belo Horizonte/MG  TV Minas</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Globo">
+    <display-name lang="pt">Belo Horizonte/MG  Globo</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Escola">
+    <display-name lang="pt">Belo Horizonte/MG  TV Escola</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Globo HD">
+    <display-name lang="pt">Belo Horizonte/MG  Globo HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Rede TV HD">
+    <display-name lang="pt">Belo Horizonte/MG  Rede TV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  SBT HD">
+    <display-name lang="pt">Belo Horizonte/MG  SBT HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Band HD">
+    <display-name lang="pt">Belo Horizonte/MG  Band HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Cultura HD">
+    <display-name lang="pt">Belo Horizonte/MG  Cultura HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  Record HD">
+    <display-name lang="pt">Belo Horizonte/MG  Record HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Minas HD">
+    <display-name lang="pt">Belo Horizonte/MG  TV Minas HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Belo Horizonte/MG  TV Brasil HD">
+    <display-name lang="pt">Belo Horizonte/MG  TV Brasil HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Playboy TV ">
+    <display-name lang="pt">Campinas/SP  Playboy TV </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Sextreme">
+    <display-name lang="pt">Campinas/SP  Sextreme</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Venus">
+    <display-name lang="pt">Campinas/SP  Venus</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Sexy Hot">
+    <display-name lang="pt">Campinas/SP  Sexy Hot</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Playboy HD">
+    <display-name lang="pt">Campinas/SP  Playboy HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Futura">
+    <display-name lang="pt">Campinas/SP  Futura</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  National Geographic">
+    <display-name lang="pt">Campinas/SP  National Geographic</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Discovery Channel">
+    <display-name lang="pt">Campinas/SP  Discovery Channel</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Animal Planet">
+    <display-name lang="pt">Campinas/SP  Animal Planet</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  The History Channel">
+    <display-name lang="pt">Campinas/SP  The History Channel</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Discovery Turbo">
+    <display-name lang="pt">Campinas/SP  Discovery Turbo</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Discovery Science">
+    <display-name lang="pt">Campinas/SP  Discovery Science</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Discovery HD ³">
+    <display-name lang="pt">Campinas/SP  Discovery HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Discovery Theater HD ³">
+    <display-name lang="pt">Campinas/SP  Discovery Theater HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Multishow">
+    <display-name lang="pt">Campinas/SP  Multishow</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  BIS">
+    <display-name lang="pt">Campinas/SP  BIS</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  MTV">
+    <display-name lang="pt">Campinas/SP  MTV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  TV WA">
+    <display-name lang="pt">Campinas/SP  TV WA</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Music Box Brazil">
+    <display-name lang="pt">Campinas/SP  Music Box Brazil</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  SporTV 3 ">
+    <display-name lang="pt">Campinas/SP  SporTV 3 </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  SporTV 2">
+    <display-name lang="pt">Campinas/SP  SporTV 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  SporTV">
+    <display-name lang="pt">Campinas/SP  SporTV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  ESPN">
+    <display-name lang="pt">Campinas/SP  ESPN</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  ESPN 2">
+    <display-name lang="pt">Campinas/SP  ESPN 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Espn 4">
+    <display-name lang="pt">Campinas/SP  Espn 4</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Band Sports">
+    <display-name lang="pt">Campinas/SP  Band Sports</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  AMC">
+    <display-name lang="pt">Campinas/SP  AMC</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Canal Brasil">
+    <display-name lang="pt">Campinas/SP  Canal Brasil</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  TNT">
+    <display-name lang="pt">Campinas/SP  TNT</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Megapix">
+    <display-name lang="pt">Campinas/SP  Megapix</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Space">
+    <display-name lang="pt">Campinas/SP  Space</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Cinemax">
+    <display-name lang="pt">Campinas/SP  Cinemax</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Prime Box Brazil">
+    <display-name lang="pt">Campinas/SP  Prime Box Brazil</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Studio Universal">
+    <display-name lang="pt">Campinas/SP  Studio Universal</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Paramount Network">
+    <display-name lang="pt">Campinas/SP  Paramount Network</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  TCM">
+    <display-name lang="pt">Campinas/SP  TCM</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO">
+    <display-name lang="pt">Campinas/SP  HBO</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO 2">
+    <display-name lang="pt">Campinas/SP  HBO 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO +">
+    <display-name lang="pt">Campinas/SP  HBO +</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO Family">
+    <display-name lang="pt">Campinas/SP  HBO Family</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO Signature">
+    <display-name lang="pt">Campinas/SP  HBO Signature</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Hbo Pop">
+    <display-name lang="pt">Campinas/SP  Hbo Pop</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Hbo Mundi">
+    <display-name lang="pt">Campinas/SP  Hbo Mundi</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  hBO Xtreme">
+    <display-name lang="pt">Campinas/SP  hBO Xtreme</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO HD ³">
+    <display-name lang="pt">Campinas/SP  HBO HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO HD 2 ³">
+    <display-name lang="pt">Campinas/SP  HBO HD 2 ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Futura HD">
+    <display-name lang="pt">Campinas/SP  Futura HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  SporTV 3 HD ³">
+    <display-name lang="pt">Campinas/SP  SporTV 3 HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  SporTV 2 HD ³">
+    <display-name lang="pt">Campinas/SP  SporTV 2 HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  SporTV HD ³">
+    <display-name lang="pt">Campinas/SP  SporTV HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Multishow HD ³">
+    <display-name lang="pt">Campinas/SP  Multishow HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  ESPN HD ³">
+    <display-name lang="pt">Campinas/SP  ESPN HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  ESPN 2 HD ">
+    <display-name lang="pt">Campinas/SP  ESPN 2 HD </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  ESPN 3 HD">
+    <display-name lang="pt">Campinas/SP  ESPN 3 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  ESPN 4 HD">
+    <display-name lang="pt">Campinas/SP  ESPN 4 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Band Sports HD ³">
+    <display-name lang="pt">Campinas/SP  Band Sports HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  National Geographic HD ³">
+    <display-name lang="pt">Campinas/SP  National Geographic HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Animal Planet HD">
+    <display-name lang="pt">Campinas/SP  Animal Planet HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  History Hd">
+    <display-name lang="pt">Campinas/SP  History Hd</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Discovery Turbo HD ³">
+    <display-name lang="pt">Campinas/SP  Discovery Turbo HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Discovery Science HD ³">
+    <display-name lang="pt">Campinas/SP  Discovery Science HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Smithsonian HD">
+    <display-name lang="pt">Campinas/SP  Smithsonian HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Discovery world HD ³">
+    <display-name lang="pt">Campinas/SP  Discovery world HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  History 2 HD">
+    <display-name lang="pt">Campinas/SP  History 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  BIS HD ³">
+    <display-name lang="pt">Campinas/SP  BIS HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  MTV HD ³">
+    <display-name lang="pt">Campinas/SP  MTV HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Music Box Brazil HD ³">
+    <display-name lang="pt">Campinas/SP  Music Box Brazil HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  MTV Live HD">
+    <display-name lang="pt">Campinas/SP  MTV Live HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  AMC HD">
+    <display-name lang="pt">Campinas/SP  AMC HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Canal Brasil HD ³">
+    <display-name lang="pt">Campinas/SP  Canal Brasil HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  TNT HD ³">
+    <display-name lang="pt">Campinas/SP  TNT HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Megapix HD ³">
+    <display-name lang="pt">Campinas/SP  Megapix HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Space HD ³">
+    <display-name lang="pt">Campinas/SP  Space HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Cinemax HD ³">
+    <display-name lang="pt">Campinas/SP  Cinemax HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Prime Box Brazil HD ³">
+    <display-name lang="pt">Campinas/SP  Prime Box Brazil HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Studio Universal HD">
+    <display-name lang="pt">Campinas/SP  Studio Universal HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Paramount Network HD ">
+    <display-name lang="pt">Campinas/SP  Paramount Network HD </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO + HD">
+    <display-name lang="pt">Campinas/SP  HBO + HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO Family HD ³">
+    <display-name lang="pt">Campinas/SP  HBO Family HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO Signature HD ³">
+    <display-name lang="pt">Campinas/SP  HBO Signature HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO POP HD">
+    <display-name lang="pt">Campinas/SP  HBO POP HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO MUNDI HD">
+    <display-name lang="pt">Campinas/SP  HBO MUNDI HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  HBO Xtreme HD">
+    <display-name lang="pt">Campinas/SP  HBO Xtreme HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Gloobinho">
+    <display-name lang="pt">Campinas/SP  Gloobinho</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Discovery Kids">
+    <display-name lang="pt">Campinas/SP  Discovery Kids</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Gloob">
+    <display-name lang="pt">Campinas/SP  Gloob</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Disney Channel">
+    <display-name lang="pt">Campinas/SP  Disney Channel</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Nickelodeon">
+    <display-name lang="pt">Campinas/SP  Nickelodeon</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Cartoon Network">
+    <display-name lang="pt">Campinas/SP  Cartoon Network</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Nick Jr.">
+    <display-name lang="pt">Campinas/SP  Nick Jr.</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  cartoonito">
+    <display-name lang="pt">Campinas/SP  cartoonito</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  TV Rá Tim Bum">
+    <display-name lang="pt">Campinas/SP  TV Rá Tim Bum</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Tooncast">
+    <display-name lang="pt">Campinas/SP  Tooncast</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Baby Tv">
+    <display-name lang="pt">Campinas/SP  Baby Tv</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  ZooMoo">
+    <display-name lang="pt">Campinas/SP  ZooMoo</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Gloobinho HD">
+    <display-name lang="pt">Campinas/SP  Gloobinho HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Discovery Kids HD ³">
+    <display-name lang="pt">Campinas/SP  Discovery Kids HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Gloob HD ³">
+    <display-name lang="pt">Campinas/SP  Gloob HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Disney Channel HD ³">
+    <display-name lang="pt">Campinas/SP  Disney Channel HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Nickelodeon HD">
+    <display-name lang="pt">Campinas/SP  Nickelodeon HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Cartoon Network HD">
+    <display-name lang="pt">Campinas/SP  Cartoon Network HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Nick Jr HD ³">
+    <display-name lang="pt">Campinas/SP  Nick Jr HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Cartoonito HD">
+    <display-name lang="pt">Campinas/SP  Cartoonito HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  TV Rá Tim Bum HD ³">
+    <display-name lang="pt">Campinas/SP  TV Rá Tim Bum HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  ZooMoo HD">
+    <display-name lang="pt">Campinas/SP  ZooMoo HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Portal do Futebol">
+    <display-name lang="pt">Campinas/SP  Portal do Futebol</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Canal de Vendas NET">
+    <display-name lang="pt">Campinas/SP  Canal de Vendas NET</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  TV Climatempo">
+    <display-name lang="pt">Campinas/SP  TV Climatempo</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Jogos Interativos Cartoon">
+    <display-name lang="pt">Campinas/SP  Jogos Interativos Cartoon</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  CNN International">
+    <display-name lang="pt">Campinas/SP  CNN International</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  Bloomberg TV">
+    <display-name lang="pt">Campinas/SP  Bloomberg TV</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  BBC World News">
+    <display-name lang="pt">Campinas/SP  BBC World News</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  RAI International">
+    <display-name lang="pt">Campinas/SP  RAI International</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Campinas/SP  TV5 Monde">
+    <display-name lang="pt">Campinas/SP  TV5 Monde</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+</tv>
